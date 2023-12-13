@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "name": "goutam ray",
+      "age": 35,
+      "gender": "male",
+      "skill": "mern stack",
+      "id": 1
+    },
+    {
+      "name": "shanto",
+      "age": 45,
+      "gender": "male",
+      "skill": "php dev",
+      "id": 2
+    },
+    {
+      "name": "hori",
+      "age": 55,
+      "gender": "male",
+      "skill": "html dev",
+      "id": 3
+    },
+    {
+      "name": "durjay",
+      "age": 155,
+      "gender": "male",
+      "skill": "css dev",
+      "id": 4
+    },
+    {
+      "name": "nusrat",
+      "age": 15,
+      "gender": "female",
+      "skill": "jquery dev",
+      "id": 5
+    },
+    {
+      "name": "nabiha",
+      "age": 195,
+      "gender": "female",
+      "skill": "ios dev",
+      "id": 6
+    },
+    {
+      "name": "boltu ray",
+      "age": 135,
+      "gender": "male",
+      "skill": "ios dev",
+      "id": 7
+    }
+  ],
+  "teachers": [
+    {
+      "name": "nabiha",
+      "gender": "female",
+      "skill": "ios dev",
+      "id": 1
+    },
+    {
+      "name": "gourango",
+      "gender": "male",
+      "skill": "theme dev",
+      "id": 2
+    }
+  ],
+  "staffs": []
+}
